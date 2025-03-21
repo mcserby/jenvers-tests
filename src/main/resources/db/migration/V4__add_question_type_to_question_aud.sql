@@ -1,0 +1,1 @@
+ALTER TABLE question_aud ADD COLUMN type VARCHAR(255);
